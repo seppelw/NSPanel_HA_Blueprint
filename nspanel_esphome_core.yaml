@@ -68,6 +68,7 @@ wifi:
   ap:
     ssid: "${device_name}"
     password: ${wifi_password}
+  use_address: 192.168.178.107
 
 ##### OTA PASSWORD #####
 ota:
